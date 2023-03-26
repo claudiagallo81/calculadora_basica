@@ -1,0 +1,29 @@
+
+body {
+    text-align: center;
+    font-size: 24px;
+    font-family: sans-serif;
+  }
+
+  .calculator {
+    display: inline-block;
+    background-color: #f4f4f4;
+    border: 1px solid #2b2929;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+  }
+
+  .calculator input[type="button"] {
+    font-size: 20px;
+    width: 64px;
+    height: 64px;
+    margin: 4px;
+  }
+
+  .calculator input[type="text"] {
+    font-size: 28px;
+    width: 200px;
+    text-align: right;
+    margin-bottom: 8px;
+  }
